@@ -1,0 +1,5 @@
+train: D:/CCTV/CCTV/frames/images/train
+val: D:/CCTV/CCTV/frames/images/val
+
+nc: 6
+names: ['assult', 'burglary', 'vandalism', 'trespass', 'robbery', 'drunken']
